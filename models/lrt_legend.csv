@@ -1,0 +1,234 @@
+EU Code,Lebensraumtyp (offizielle Bezeichnung),hexcode
+1110,Sandbänke mit nur schwacher ständiger Überspülung durch Meerwasser (sublitorale Sandbänke),#4f6c7f
+1120,Posidonia-Seegraswiesen (Posidonion oceanicae),#4f6d81
+1130,Ästuarien,#4f6e84
+1140,"Vegetationsfreies Schlick-, Sand- und Mischwatt",#4f6e86
+1150,Lagunen des Küstenraumes (Strandseen),#4f6f88
+1160,Flache große Meeresarme und -buchten (Flachwasserzonen und Seegraswiesen),#4f6f8b
+1170,Riffe,#4f708d
+1180,Submarine durch Gasaustritte entstandene Strukturen,#4f7090
+1210,Einjährige Spülsäume,#4f7092
+1220,Mehrjährige Vegetation der Kiesstrände,#4e7194
+1230,Atlantik-Felsküsten und Ostsee-Fels- und Steil-Küsten mit Vegetation,#4e7197
+1240,Mittelmeer-Felsküsten mit Vegetation mit endemischen Limonium-Arten,#4e7199
+1250,Makaronesische Felsküsten mit endemischen Pflanzenarten,#4d709b
+1310,Pioniervegetation mit Salicornia und anderen einjährigen Arten auf Schlamm und Sand (Quellerwatt),#4d709e
+1320,Schlickgrasbestände (Spartinion maritimae),#4d70a0
+1330,Atlantische Salzwiesen (Glauco-Puccinellietalia maritimae),#4c6fa2
+1340,Salzwiesen im Binnenland,#4c6fa5
+1410,Mediterrane Salzwiesen (Juncetalia maritimi),#4b6ea7
+1420,Quellerwatten des Mittelmeer- und gemäßigten atlantischen Raums (Sarcocornetea fruticosae),#4a6eaa
+1430,Halo-nitrophile Gestrüppe (Pegano-Salsoletea),#4a6dac
+1510,Mediterrane Salzwiesen (Limonietalia),#496cae
+1520,Iberische Gipssteppen (Gypsophiletalia),#486bb1
+1530,Pannonische Salzsteppen und Salzwiesen,#4769b3
+1610,"Esker (Moränen)-Inseln des Baltikums mit Sand-, Fels- oder Kies-Strand — Vegetation und sublitoraler Vegetation",#4668b5
+1620,Kleine und Kleinst-Inseln des borealen Baltikums,#4567b8
+1630,Küstenwiesen des borealen Baltikums,#4565ba
+1640,Sandige Strände mit ausdauernder Vegetation des borealen Baltikums,#4463bc
+1650,"Kleine, enge Buchten des borealen Baltikums",#4262bf
+2110,Primärdünen,#a5937c
+2120,Weißdünen mit Strandhafer Ammophila arenaria,#a7957b
+2130,Festliegende Küstendünen mit krautiger Vegetation (Graudünen),#aa967a
+2140,Entkalkte Dünen mit Empetrum nigrum,#ac987a
+2150,Festliegende entkalkte Dünen der atlantischen Zone (Calluno-Ulicetea),#ae9979
+2160,Dünen mit Hippophaë rhamnoides,#b09b78
+2170,Dünen mit Salix repens ssp. argentea (Salicion arenariae),#b29d77
+2180,"Bewaldete Dünen der atlantischen, kontinentalen und borealen Region",#b49e76
+2190,Feuchte Dünentäler,#b7a075
+21A0,Machair (* in Irland),#b9a274
+2210,Festliegende Dünen im Küstenbereich mit Crucianellion maritimae,#bba373
+2220,Dünen mit Euphorbia terracina,#bda572
+2230,Dünenrasen der Malcolmietalia,#bfa770
+2240,Dünenrasen der Brachypodietalia mit Annuellen,#c1a96f
+2250,Mediterrane Küstendünen mit Wacholder Juniperus spp.,#c4ab6e
+2260,Dünen mit Hartlaubvegetation der Cisto-Lavenduletalia,#c6ad6c
+2270,Dünen-Wälder von Pinus pinea und/oder Pinus pinaster,#c8af6b
+2310,Trockene Sandheiden mit Calluna und Genista,#cab269
+2320,Trockene Sandheiden mit Calluna und Empetrum nigrum,#ccb467
+2330,Dünen mit offenen Grasflächen mit Corynephorus und Agrostis,#ceb666
+2340,Pannonische Binnendünen,#d1b964
+3110,"Oligotrophe, sehr schwach mineralische Gewässer der Sandebenen (Littorelletalia uniflorae)",#8ea8ad
+3120,"Oligotrophe, sehr schwach mineralische Gewässer meist auf sandigen Böden des westlichen Mittelmeerraumes mit Isoëtes spp.",#8eaab0
+3130,Oligo- bis mesotrophe stehende Gewässer mit Vegetation der Littorelletea uniflorae und/oder der Isoëto-Nanojuncetea,#8eacb2
+3140,Oligo- bis mesotrophe kalkhaltige Gewässer mit benthischer Vegetation aus Armleuchteralgen,#8daeb5
+3150,Natürliche eutrophe Seen mit einer Vegetation des Magnopotamions oder Hydrocharitions,#8dafb8
+3160,Dystrophe Seen und Teiche,#8db1ba
+3170,Temporäre mediterrane Flachgewässer,#8db2bd
+3180,Temporär wasserführende Karstseen (Turloughs),#8cb3c0
+3190,Gipskarstseen auf gipshaltigem Untergrund,#8cb5c2
+31A0,Transsilvanische heiße Quellen mit Tigerlotus-Formationen (Nymphaea lotus),#8bb6c5
+3210,Natürliche Flüsse Fennoskandiens,#8ab7c8
+3220,Alpine Flüsse mit krautiger Ufervegetation,#8ab8ca
+3230,Alpine Flüsse mit Ufergehölzen von Myricaria germanica,#89b9cd
+3240,Alpine Flüsse mit Ufergehölzen von Salix elaeagnos,#88b9d0
+3250,Permanente mediterrane Flüsse mit Glaucium flavum,#87bad2
+3260,Flüsse der planaren bis montanen Stufe mit Vegetation des Ranunculion fluitantis und des Callitricho-Batrachion,#86bad5
+3270,Flüsse mit Schlammbänken mit Vegetation des Chenopodion rubri p.p. und des Bidention p.p.,#85bbd8
+3280,Permanente mediterrane Flüsse: Paspalo-Agrostidion und Galeriewälder aus Salix und Populus alba,#84bbdb
+3290,Temporäre mediterrane Flüsse mit Paspalo-Agrostidion-Vegetation,#83bbdd
+32A0,Kalktuff-Kaskaden von Karstflüssen im Dinarischen Gebirge,#82bbe0
+4010,Feuchte Heiden des nordatlantischen Raumes mit Erica tetralix,#604535
+4020,Feuchte Heiden des gemäßigt atlantischen Raumes mit Erica ciliaris und Erica tetralix,#654835
+4030,Trockene europäische Heiden,#6a4b35
+4040,Trockene atlantische Heiden an der Küste mit Erica vagans,#6e4e35
+4050,Endemische makaronesische Heiden,#735135
+4060,Alpine und boreale Heiden,#785435
+4070,Buschvegetation mit Pinus mugo und Rhododendron hirsutum (Mugo-Rhododendretum hirsuti),#7c5734
+4080,Subarktisches Weidengebüsch,#815a34
+4090,Oromediterrane endemische Heiden mit Stechginster,#855d33
+40A0,Subkontinentale peripannonische Gebüsche,#8a6132
+40B0,Potentilla fruticosa — Gebüsche der Rhodopen,#8f6430
+40C0,Pontisch-sarmatische sommergrüne Gebüsche,#93682f
+5110,Stabile xerothermophile Formationen von Buxus sempervirens an Felsabhängen (Berberidion p.p.),#7a5c58
+5120,Formationen von Cytisus purgans in Berggebieten,#7f5c58
+5130,Formationen von Juniperus communis auf Kalkheiden und -rasen,#835d57
+5140,Formationen von Cistus palhinhae auf maritimen Heiden,#885d57
+5210,Baumförmige Matorrals mit Juniperus spp.,#8d5d56
+5220,Baumförmige Matorrals mit Ziziphus spp.,#915d55
+5230,Baumförmige Matorrals mit Laurus nobilis,#965d54
+5310,Lorbeer-Gebüsche,#9b5c52
+5320,Euphorbia-Formationen an Steilküsten,#9f5c50
+5330,Thermo-mediterrane Gebüschformationen und Vorwüsten (sonstige Gesellschaften),#a45b4e
+5410,Westmediterrane Phrygane (Astragalo-Plantaginetum subulatae) auf Felsenküsten,#a95a4c
+5420,Sarcopoterium spinosum — Phryganes,#ad584a
+5430,Endemische Phrygane des Euphorbio-Verbascion,#b25747
+6110,Lückige basophile oder Kalk-Pionierrasen (Alysso-Sedion albi),#6d7a4f
+6120,"Trockene, kalkreiche Sandrasen",#6e7d50
+6130,Schwermetallrasen (Violetalia calaminariae),#6f7f50
+6140,Silikat-Grasland in den Pyrenäen mit Festuca eskia,#708251
+6150,Boreo-alpines Grasland auf Silikatsubstraten,#718451
+6160,Oro-Iberisches Grasland auf Silikatböden mit Festuca indigesta,#718752
+6170,Alpine und subalpine Kalkrasen,#728a52
+6180,Mesophiles makaronesische Grasland,#728c52
+6190,Lückiges pannonisches Grasland (Stipo-Festucetalia pallentis),#728f53
+6210,Naturnahe Kalktrockenrasen und deren Verbuschungsstadien (Festuco-Brometalia) (* besondere Bestände mit bemerkenswerten Orchideen),#729253
+6220,Mediterrane Trockenrasen der Thero-Brachypodietea,#729453
+6230,Artenreiche montane Borstgrasrasen (und submontan auf dem europäischen Festland) auf Silikatböden,#719753
+6240,Subpannonische Steppen-Trockenrasen,#719953
+6250,Pannonische Steppen-Trockenrasen auf Löss,#709c54
+6260,Pannonische Steppen auf Sand,#709f54
+6270,"Artenreiche, mesophile, trockene Rasen der niederen Lagen Fennoskandiens",#6fa154
+6280,Nordische Alvar-Trockenrasen und flache praekambrische Kalkfelsen,#6ea454
+62A0,Östliche sub-mediterrane Trockenrasen (Scorzoneratalia villosae),#6ca753
+62B0,Serpentin-Grasland auf Zypern,#6ba953
+62C0,Pontisch-sarmatische Steppen,#69ac53
+62D0,Oro-moesisches bodensaures Grasland,#68af53
+6310,Dehesas mit immergrünen Eichenarten,#66b152
+6410,"Pfeifengraswiesen auf kalkreichem Boden, torfigen und tonig-schluffigen Böden (Molinion caeruleae)",#64b452
+6420,Mediterranes Feuchtgrünland mit Hochstauden des Molinio-Holoschoenion,#61b652
+6430,Feuchte Hochstaudenfluren der planaren und montanen bis alpinen Stufe,#5fb951
+6440,Brenndolden-Auenwiesen (Cnidion dubii),#5cbc51
+6450,Nordboreale Auenwiesen,#59be50
+6460,Moorwiesen des Troodos-Gebirges,#56c150
+6510,"Magere Flachland-Mähwiesen (Alopecurus pratensis, Sanguisorba officinalis)",#53c44f
+6520,Berg-Mähwiesen,#4fc64e
+6530,Wiesen mit Gehölzen in Fennoskandien,#4ec950
+6540,Submediterranes Grünland des Molinio-Hordeion secalini,#4dcc52
+7110,Lebende Hochmoore,#4b3d51
+7120,Noch renaturierungsfähige degradierte Hochmoore,#524059
+7130,Flächenmoore (* aktive Moore),#594360
+7140,Übergangs- und Schwingrasenmoore,#604667
+7150,Torfmoor-Schlenken (Rhynchosporion),#68486f
+7160,Mineralreiche Quellen und Niedermoorquellen Fennoskandiens,#704a76
+7210,Kalkreiche Niedermoore mit Cladium mariscus und Arten von Caricion davallianae,#794c7e
+7220,Kalktuffquellen (Cratoneurion),#824d85
+7230,Kalkreiche Niedermoore,#8c4e8c
+7240,Alpine Pionierformationen des Caricion bicoloris-atrofuscae,#944e92
+7310,Aapa-Moore,#9b4e97
+7320,Palsa-Moore,#a34e9a
+8110,Silikatschutthalden der montanen bis nivalen Stufe (Androsacetalia alpinae und Galeopsietalia ladani),#7c7f84
+8120,Kalk- und Kalkschieferschutthalden der montanen bis alpinen Stufe (Thlaspietea rotundifolii),#808389
+8130,Thermophile Schutthalden im westlichen Mittelmeerraum,#83878e
+8140,Schutthalden im östlichen Mittelmeerraum,#868b93
+8150,Kieselhaltige Schutthalden der Berglagen Mitteleuropas,#8a8e99
+8160,Kalkhaltige Schutthalden der collinen bis montanen Stufe Mitteleuropas,#8d929e
+8210,Kalkfelsen mit Felsspaltenvegetation,#9095a3
+8220,Silikatfelsen mit Felsspaltenvegetation,#9398a8
+8230,Silikatfelsen mit Pioniervegetation des Sedo-Scleranthion oder des Sedo albi-Veronicion dillenii,#969bad
+8240,Kalk-Felspflaster,#989db2
+8310,Nicht touristisch erschlossene Höhlen,#9ba0b7
+8320,Lavafelder und Aushöhlungen,#9ea2bc
+8330,Völlig oder teilweise unter Wasser liegende Meereshöhlen,#a0a4c1
+8340,Permanente Gletscher,#a3a6c6
+9010,Westliche Taiga,#203819
+9020,"Epiphytenreiche, alte, natürliche, hemiboreale Laubwälder (Quercus, Tilia, Acer, Fraxinus oder Ulmus)",#203819
+9030,Natürliche Waldprimärsukzession der Landhebungsgebiete im Küstenbereich,#203919
+9040,Subalpine/subarktische nordische Wälder von Betula pubescens ssp. Czerepanovii,#203a19
+9050,Krautreiche Fichtenwälder Fennoskandiens,#203b19
+9060,Nadelwälder auf oder in Verbindung mit fluvio-glazialen Esker-Moränen,#213c1a
+9070,Waldweiden Fennoskandiens,#213d1a
+9080,Laubholz-Bruchwälder Fennoskandiens,#213d1a
+9110,Hainsimsen-Buchenwald (Luzulo-Fagetum),#213e1a
+9120,"Atlantischer, saurer Buchenwald mit Unterholz aus Stechpalme und gelegentlich Eibe (Quercion robori-petraeae oder Ilici-Fagenion)",#213f1a
+9130,Waldmeister-Buchenwald (Asperulo-Fagetum) (incl. Waldgersten-Buchenwald),#21401a
+9140,Mitteleuropäischer subalpiner Blaugras-Buchenwald mit Ahorn und Rumex arifolius,#21411b
+9150,Mitteleuropäischer Orchideen-Kalk-Buchenwald (Cephalanthero-Fagion),#21421b
+9160,Subatlantischer oder mitteleuropäischer Stieleichenwald oder Sternmieren-Eichen-Hainbuchenwald (Carpinion betuli),#21421b
+9170,Labkraut-Eichen-Hainbuchenwald Galio-Carpinetum,#21431b
+9180,Schlucht- und Hangmischwälder Tilio-Acerion,#21441b
+9190,Alte bodensaure Eichenwälder auf Sandebenen mit Quercus robur,#21451b
+91A0,Eichenwälder auf den Britischen Inseln mit Ilex und Blechnum,#21461b
+91AA,Östliche Flaumeichenwälder,#21471b
+91B0,Thermophile Eschenwälder mit Fraxinus angustifolia,#21471c
+91BA,Moesische Tannenwälder,#21481c
+91C0,Kaledonische Wälder,#21491c
+91CA,Waldkiefernwälder der Rhodopen und des Balkan-Gebirges,#214a1c
+91D0,Moorwälder,#214b1c
+91E0,"Auen-Wälder mit Alnus glutinosa und Fraxinus excelsior (Alno-Padion, Alnion incanae, Salicion albae)",#214b1c
+91F0,"Hartholzauewälder mit Quercus robur, Ulmus laevis, Ulmus minor, Fraxinus excelsior oder Fraxinus angustifolia (Ulmenion minoris)",#204c1c
+91G0,Pannonische Wälder mit Quercus petraea und Carpinus betulus,#204d1c
+91H0,Pannonische Flaumeichen-Wälder,#204e1c
+91I0,Euro-Sibirische Eichen-Steppenwälder,#204f1c
+91J0,Eibenwälder der britischen Inseln,#20501c
+91K0,Illyrische Rotbuchenwälder (Aremonio-Fagion),#20501c
+91L0,Illyrische Eichen-Hainbuchenwälder (Erythronio-Carpinion),#1f511c
+91M0,Pannonisch-balkanische Zerreichen- und Traubeneichenwälder,#1f521c
+91N0,Pannonisches Binnensanddünen-Gebüsch (Junipero — Populetum albae),#1f531c
+91P0,Tannenwald des Heiligkreuzgebirges (Abietetum polonicum),#1f541c
+91Q0,Pinus sylvestris-Wälder der Westkarpaten auf Kalk,#1e551c
+91R0,Waldkiefernwälder der dinarischen Dolomiten (Genisto januensis-Pinetum),#1e551d
+91S0,West-pontische Buchenwälder,#1e561d
+91T0,Mitteleuropäische Flechten-Kiefernwälder,#1d571d
+91U0,Kiefernwälder der sarmatischen Steppe,#1d581d
+91V0,Dakische Buchenwälder (Symphyto-Fagion),#1d591d
+91W0,Moesische Buchenwälder,#1c5a1d
+91X0,Buchenwälder der Dobrudscha,#1c5a1d
+91Y0,Labkraut-Eichen-Hainbuchenwald Galio-Carpinetum,#1c5b1d
+91Z0,Moesische Silberlindenwälder,#1c5c1e
+9210,Buchenwald der Apenninen mit Taxus und Ilex,#1c5d1e
+9220,Buchenwald der Apenninen mit Abies alba und Buchenwald mit Abies nebrodensis,#1c5e1e
+9230,Galizisch-portugiesische Eichenwälder mit Quercus robur und Quercus pyrenaica,#1c5f1f
+9240,Iberische Eichenwälder mit Quercus faginea und Quercus canariensis,#1c5f1f
+9250,Eichenwälder mit Quercus trojana,#1c601f
+9260,Eichenwälder mit Castanea sativa,#1c6120
+9270,Griechische Buchenwälder mit Abies borisii-regis,#1c6220
+9280,Wälder mit Quercus frainetto,#1c6320
+9290,Zypressenwälder (Acero-Cupression),#1c6421
+92A0,Galeriewald mit Salix alba und Populus alba,#1c6421
+92B0,"Galeriewald an temporären mediterranen Flüssen mit Rhododendron ponticum, Salix und sonstiger Vegetation",#1c6522
+92C0,Wälder mit Platanus orientalis und Liquidambar orientalis (Platanion orientalis),#1c6622
+92D0,Mediterrane Galeriewälder und flussbegleitende Gebüsche (Nerio-Tamaricetea und Securinegion tinctoriae),#1c6722
+9310,Ägäische Wälder mit Quercus brachyphylla,#1b6823
+9320,Wälder mit Olea und Ceratonia,#1b6823
+9330,Wälder mit Quercus suber,#1b6924
+9340,Wälder mit Quercus ilex und Quercus rotundifolia,#1b6a24
+9350,Wälder mit Quercus macrolepis,#1b6b25
+9360,"Makaronesische Lorbeerwälder (Laurus, Ocotea)",#1b6c25
+9370,Palmhaine von Phoenix,#1b6d25
+9380,Wälder aus Ilex aquifolium,#1b6d26
+9390,Busch- und niedrige Waldvegetation mit Quercus alnifolia,#1b6e26
+93A0,Wälder mit Quercus infectoria (Anagyro foetidae-Quercetum infectoriae),#1a6f27
+9410,Montane bis alpine bodensaure Fichtenwälder (Vaccinio-Piceetea),#1a7027
+9420,Alpiner Lärchen- und/oder Arvenwald,#1a7128
+9430,Montaner und subalpiner Pinus uncinata-Wald (* auf Gips- oder Kalksubstrat),#1a7228
+9510,Wald des Süd-Apennins mit Abies alba,#1a7229
+9520,Wälder mit Abies pinsapo,#1a7329
+9530,Sub-mediterrane Kiefernwälder mit endemischen Schwarzkiefern,#19742a
+9540,Mediterrane Pinienwälder mit endemischen Kiefern,#19752a
+9550,Kanarischer endemischer Kiefernwald,#19762b
+9560,Endemische Wälder mit Juniperus spp.,#19772b
+9570,Wälder mit Tetraclinis articulata,#19772c
+9580,Mediterrane Wälder mit Taxus baccata,#18782c
+9590,Cedrus brevifolia-Wälder (Cedrosetum brevifoliae),#18792d
+95A0,Oro-mediterrane Kiefernwälder der Hochlagen,#187a2e
